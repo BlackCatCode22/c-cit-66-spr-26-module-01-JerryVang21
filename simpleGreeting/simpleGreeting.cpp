@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    string name;
+
+    cout << "Enter your name: ";
+    cin >> name;
+
+    cout << "Hello," << name << "! Nice to meet you." << endl;
+return 0;
+}
+// Created by jerry on 1/23/2026.
+//
